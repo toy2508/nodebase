@@ -1,9 +1,15 @@
-export default function Home() {
+import prisma from "@/lib/db";
 
+const Home = async () => {
+
+    const users = await prisma.user.findMany();
 
     return (
         <div>
-            Hello World
+            {JSON.stringify(users)}
         </div>
     );
 }
+
+
+export default Home;
