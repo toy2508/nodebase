@@ -7,3 +7,6 @@
 ## 2025-11-09
 - tRPC
   1) 설치  : https://trpc.io/docs/client/tanstack-react-query/server-components
+
+## 2025-11-11
+- Batter-Auth 설치 : https://www.better-auth.com/docs/installation
