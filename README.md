@@ -10,3 +10,7 @@
 
 ## 2025-11-11
 - Batter-Auth 설치 : https://www.better-auth.com/docs/installation
+
+## 2025-11-15
+ - tweaken theme 적용 : https://tweakcn.com/editor/theme?p=colors
+ - logo : https://logoipsum.com/
