@@ -14,3 +14,9 @@
 ## 2025-11-15
  - tweaken theme 적용 : https://tweakcn.com/editor/theme?p=colors
  - logo : https://logoipsum.com/
+
+## 2025-11-22
+ - inngest(Next.js) 가이드 :https://www.inngest.com/docs/getting-started/nextjs-quick-start
+ - inngest(Next.js) 설치 : npm install inngest
+ - mprocs 사이트 : https://github.com/pvolok/mprocs
+ - mprocs 설치 : npm install -g mprocs
