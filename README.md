@@ -20,3 +20,4 @@
  - inngest(Next.js) 설치 : npm install inngest
  - mprocs 사이트 : https://github.com/pvolok/mprocs
  - mprocs 설치 : npm install -g mprocs
+ - AI SDK Provider : https://ai-sdk.dev/getting-started
